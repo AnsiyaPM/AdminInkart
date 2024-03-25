@@ -1,0 +1,210 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 3,
+    "message_": "expected buildFiles file \u0027C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt\u0027 to exist",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\android_gradle_build.json",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1409,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 3,
+    "message_": "expected buildFiles file \u0027C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\@react-native-clipboard\\clipboard\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt\u0027 to exist",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\android_gradle_build.json",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1409,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 3,
+    "message_": "expected buildFiles file \u0027C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native-gesture-handler\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt\u0027 to exist",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\android_gradle_build.json",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1409,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 3,
+    "message_": "expected buildFiles file \u0027C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native-image-picker\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt\u0027 to exist",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\android_gradle_build.json",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1409,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 3,
+    "message_": "expected buildFiles file \u0027C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native-vector-icons\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt\u0027 to exist",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\android_gradle_build.json",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1409,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- a file changed",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\build.ninja (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\\.cxx\\Debug\\p6r4pu2i\\x86\\compile_commands.json (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt (DELETED)",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native-gesture-handler\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt (DELETED)",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native-image-picker\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt (DELETED)",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native-vector-icons\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt (DELETED)",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  x86 ^\n  --os-version ^\n  21 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  25 ^\n  --output ^\n  \"C:\\\\Users\\\\Lenovo\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging2971505230092459648\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\transforms-3\\\\1164178e5e40cff4b6777f169f78763a\\\\transformed\\\\jetified-react-android-0.73.5-debug\\\\prefab\" ^\n  \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\transforms-3\\\\32b9d5f4760a4d065d6541802a97f8c7\\\\transformed\\\\jetified-fbjni-0.5.1\\\\prefab\" ^\n  \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\transforms-3\\\\35e11207c95ca0cf438634cf5998e3de\\\\transformed\\\\jetified-hermes-android-0.73.5-debug\\\\prefab\" ^\n  \"C:\\\\Users\\\\Lenovo\\\\Desktop\\\\Project\\\\InkartAdminApp\\\\node_modules\\\\react-native-reanimated\\\\android\\\\build\\\\intermediates\\\\prefab_package\\\\debug\\\\prefab\"\n",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: C++ build system [prefab] failed while executing:\n    @echo off\n    \"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n      --class-path ^\n      \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n      com.google.prefab.cli.AppKt ^\n      --build-system ^\n      cmake ^\n      --platform ^\n      android ^\n      --abi ^\n      x86 ^\n      --os-version ^\n      21 ^\n      --stl ^\n      c++_shared ^\n      --ndk-version ^\n      25 ^\n      --output ^\n      \"C:\\\\Users\\\\Lenovo\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging2971505230092459648\\\\staged-cli-output\" ^\n      \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\transforms-3\\\\1164178e5e40cff4b6777f169f78763a\\\\transformed\\\\jetified-react-android-0.73.5-debug\\\\prefab\" ^\n      \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\transforms-3\\\\32b9d5f4760a4d065d6541802a97f8c7\\\\transformed\\\\jetified-fbjni-0.5.1\\\\prefab\" ^\n      \"C:\\\\Users\\\\Lenovo\\\\.gradle\\\\caches\\\\transforms-3\\\\35e11207c95ca0cf438634cf5998e3de\\\\transformed\\\\jetified-hermes-android-0.73.5-debug\\\\prefab\" ^\n      \"C:\\\\Users\\\\Lenovo\\\\Desktop\\\\Project\\\\InkartAdminApp\\\\node_modules\\\\react-native-reanimated\\\\android\\\\build\\\\intermediates\\\\prefab_package\\\\debug\\\\prefab\"\n  from C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\android\\app\nUsage: prefab [OPTIONS] PACKAGE_PATH...\r\n\r\nError: Invalid value for \"PACKAGE_PATH\": Directory \"C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\debug\\prefab\" is not readable.\r",
+    "file_": "C:\\Users\\Lenovo\\Desktop\\Project\\InkartAdminApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]
